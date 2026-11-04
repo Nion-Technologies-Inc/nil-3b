@@ -1,0 +1,9 @@
+venv/
+*.gguf
+*.bin
+*.safetensors
+*.jsonl
+data/
+__pycache__/
+.env
+.DS_Store
